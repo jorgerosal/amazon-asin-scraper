@@ -1,0 +1,19 @@
+{
+  "name": "amazon-asin-scraper",
+  "version": "1.0.0",
+  "description": "Amazon Scraper by ASIN ID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/yortrosal/amazon-asin-scraper.git"
+  },
+  "keywords": [
+    "amazon",
+    "scraper"
+  ],
+  "author": "Jorge Rosal <yortrosal@gmail.com>",
+  "license": "ISC"
+}
