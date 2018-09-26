@@ -1,8 +1,8 @@
 // sample
 
-const amazon-asin-scraper = (asin) =>{
+const asinScraper = (asin) =>{
   console.log('asin is ' + asin + '.');
 }
 
 
-module.exports = amazon-asin-scraper;
+module.exports = asinScraper;

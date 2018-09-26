@@ -1,6 +1,6 @@
 {
   "name": "amazon-asin-scraper",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Amazon Scraper by ASIN ID",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/yortrosal/amazon-asin-scraper.git"
+    "url": "git://github.com/yortrosal/amazon-asin-scraper.git"
   },
   "keywords": [
-    "amazon",
-    "scraper"
+    "Amazon Buybox Scraper",
+    "Amazon Review Scraper",
+    "Amazon MWS Custom Api",
+    "Amazon Price Api",
+    "Amazon Seller List",
+    "Amazon Offer Listing Scraper",
+    "Amazon Marketplace Web Service",
   ],
   "author": "Jorge Rosal <yortrosal@gmail.com>",
   "license": "ISC"
