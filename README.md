@@ -2,13 +2,16 @@
 
 Making your amazon scraping job easier. This is going to be an alternative way to get the data you need that are not available on aws product and mws search api.
 
+ - Only Supports US marketplace as of this moment.
+
 ## Features
 
 - Buybox Page Data Scraping
 - Review Page Data Scraping
 - Product Detail Page Data Scraping
-- Supports proxy
-- User Agent proxy
+- Single proxy or multiple proxies and handles proxy failure
+- Cookie jar and custom cookies/headers/user agent
+- Set Retries on failed requests
 
 ## Documentation
 

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yortrosal/amazon-asin-scraper.git"
+    "url": "https://github.com/yortrosal/amazon-asin-scraper.git"
   },
   "keywords": [
     "Amazon Buybox Scraper",
@@ -17,7 +17,9 @@
     "Amazon Price Api",
     "Amazon Seller List",
     "Amazon Offer Listing Scraper",
-    "Amazon Marketplace Web Service"
+    "Amazon Marketplace Web Service",
+    "Amazon Price Api",
+    "Amazon Crawler"
   ],
   "author": "Jorge Rosal <yortrosal@gmail.com>",
   "license": "ISC",
