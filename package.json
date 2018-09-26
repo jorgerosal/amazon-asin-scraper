@@ -17,8 +17,11 @@
     "Amazon Price Api",
     "Amazon Seller List",
     "Amazon Offer Listing Scraper",
-    "Amazon Marketplace Web Service",
+    "Amazon Marketplace Web Service"
   ],
   "author": "Jorge Rosal <yortrosal@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.8"
+  }
 }
