@@ -16,9 +16,13 @@ npm install amazon-asin-scraper
 const asinScraper = require('amazon-asin-scraper');
 
 // using callback
-let asin = someAsinIDhere;
+let options = {
+    asin : someAsinHere,
+    proxy : '', //optional
+    userAgent : '' //optional
+  };
 
-asinScraper(asin, (result)=>{
+asinScraper(options, (result)=>{
   // result below
   // {
   //   asin :

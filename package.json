@@ -1,6 +1,6 @@
 {
   "name": "amazon-asin-scraper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Amazon Scraper by ASIN ID",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   "author": "Jorge Rosal <yortrosal@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "npm": "^6.4.1",
     "osmosis": "^1.1.8"
   }
 }
