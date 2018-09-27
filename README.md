@@ -7,7 +7,7 @@ Making your amazon scraping job easier. This is going to be an alternative way t
 # Installation
 
 ```shell
-npm install exceljs
+npm install amazon-asin-scraper
 ```
 
 ## Usage
