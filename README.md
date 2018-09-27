@@ -4,10 +4,49 @@ Making your amazon scraping job easier. This is going to be an alternative way t
 
  - Only Supports US marketplace as of this moment.
 
+# Installation
+
+```shell
+npm install exceljs
+```
+
+## Usage
+
+```js
+const asinScraper = require('amazon-asin-scraper');
+
+// using callback
+let asin = asinIDhere;
+asinScraper(asin, (result)=>{
+  // output
+  // {
+  //   asin :
+  //   productTitle :
+  //   customerReview :
+  //   starRating :
+  //   currentPrice :
+  //   imageThumbnail :
+  //   sellerList : [
+  //       { sellerName :
+  //         fulfulledBy :
+  //         rating :
+  //         primeBadge :
+  //         offerPrice :
+  //         shipping :
+  //         offerListingId :
+  //       },
+  //       {},
+  //       {}
+  //   ]
+  // }  
+});
+```
+
 ## Features
 
 - Buybox Page Data Scraping
-- Review Page Data Scraping
+- Review Scraping
+- Full Seller List Detail
 - Product Detail Page Data Scraping
 - Single proxy or multiple proxies and handles proxy failure
 - Cookie jar and custom cookies/headers/user agent
