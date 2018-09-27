@@ -1,8 +1,10 @@
 // sample
 
-const asinScraper = (asin) =>{
-  console.log('asin is ' + asin + '.');
+const asinScraper = (asin, cb) =>{
+  res = 'Feature in progress...'
+  cb(res);
 }
+
 
 
 module.exports = asinScraper;
