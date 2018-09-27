@@ -19,7 +19,7 @@ const asinScraper = require('amazon-asin-scraper');
 let asin = someAsinIDhere;
 
 asinScraper(asin, (result)=>{
-  // output
+  // result below
   // {
   //   asin :
   //   productTitle :
