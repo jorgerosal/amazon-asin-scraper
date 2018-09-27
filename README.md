@@ -26,18 +26,17 @@ asinScraper(options, (result)=>{
   // result below
   // {
   //   asin :
-  //   productTitle :
-  //   customerReview :
-  //   starRating :
-  //   currentPrice :
-  //   imageThumbnail :
   //   sellerList : [
-  //       { sellerName :
+  //       {
+  //         productTitle :
+  //         customerReview :
+  //         sellerName :
+  //         sellerRating :
   //         fulfulledBy :
-  //         rating :
   //         primeBadge :
   //         offerPrice :
   //         shipping :
+  //         merchantID :
   //         offerListingId :
   //       },
   //       {},

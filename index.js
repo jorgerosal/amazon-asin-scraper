@@ -1,10 +1,5 @@
-// sample
 
-const asinScraper = (asin, cb) =>{
-  res = 'Feature in progress...'
-  cb(res);
-}
-
+const asinScraper = require('./lib/scraper')
 
 
 module.exports = asinScraper;
