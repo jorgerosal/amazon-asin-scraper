@@ -16,7 +16,8 @@ npm install exceljs
 const asinScraper = require('amazon-asin-scraper');
 
 // using callback
-let asin = asinIDhere;
+let asin = someAsinIDhere;
+
 asinScraper(asin, (result)=>{
   // output
   // {
