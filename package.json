@@ -21,7 +21,7 @@
     "Amazon Price Api",
     "Amazon Crawler"
   ],
-  "author": "Jorge Rosal <yortrosal@gmail.com>",
+  "author": "Jorge Rosal",
   "license": "ISC",
   "dependencies": {
     "npm": "^6.4.1",
