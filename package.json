@@ -1,6 +1,6 @@
 {
   "name": "amazon-asin-scraper",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Amazon Scraper by ASIN ID",
   "main": "index.js",
   "scripts": {
