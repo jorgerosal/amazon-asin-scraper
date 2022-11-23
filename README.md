@@ -1,10 +1,13 @@
 # amazon-asin-scraper
 
-**IMPORTANT NOTE: This module is unmaintained and may not function due to recent changes made in amazon pages. Please consider other module. Also if you are looking for a scraper proxy to hide your IP while scraping consider <a href="https://api.data-central.io/scraperapi">SCRAPERAPI</a>. It's FREE.**
+**IMPORTANT NOTE: This module is unmaintained and may not function due to recent changes made in amazon pages. Please consider other module. Also if you are looking for a scraper proxy to hide your IP while scraping consider <a href="https://bit.ly/scraperapidiscount">SCRAPERAPI</a>. It's FREE.**
+
+
+[![Screenshot](asset/scraperapi.png 'ScraperAPI Web Page')](https://bit.ly/scraperapidiscount)
+
 
 Making your amazon scraping job easier. This is going to be an alternative way to get the data you need that are not available on aws product and mws search api.
 
- - Only Supports US marketplace as of this moment.
 
 # Installation
 
@@ -60,4 +63,4 @@ asinScraper(options, (result)=>{
 
 ## Documentation
 
-For documentation and examples check out [https://not-yet.com](https://cjpcjp.jd)
+For documentation and examples check out [https://not-yet.com](https://bit.ly/scraperapidiscount)
